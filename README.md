@@ -7,3 +7,4 @@
 ## ファイル
 
 - [content-menu.md](content-menu.md) … 当日コンテンツメニュー（トラック設計 / タイムテーブル / コンテンツの説明）
+- [operations-script.md](operations-script.md) … 当日の運営台本（当日タイムライン＋役割・ステージ枠表・司会のセリフ・トラブル対応）

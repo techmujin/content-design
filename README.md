@@ -7,4 +7,5 @@
 ## ファイル
 
 - [content-menu.md](content-menu.md) … 当日コンテンツメニュー（トラック設計 / タイムテーブル / コンテンツの説明）
-- [operations-script.md](operations-script.md) … 当日の運営台本（当日タイムライン＋役割・ステージ枠表・司会のセリフ・トラブル対応）
+- [operations-script.md](operations-script.md) … 当日の運営台本（当日タイムライン・ステージ枠表・司会のセリフ・トラブル対応）
+- [roles.md](roles.md) … 担当者・役割定義（コンテンツオーナー / 当日の役割と担当者 / ボランティア）
